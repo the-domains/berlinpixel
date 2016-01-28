@@ -1,7 +1,7 @@
 name: berlinpixel
 favicon: null
-layout_spectrum: 0.7987465581391007
-typography_spectrum: 0.5323980979155749
+layout_spectrum: 0.53569
+typography_spectrum: 0.57495
 title: Silvester
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6657476790715009
+  brandStrength: 0.6875
   lightness: 0.2331335130147636
-  saturation: 0.05644384119659662
-  rhythmicContrast: 0.4344403899740428
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
